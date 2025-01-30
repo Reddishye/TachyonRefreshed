@@ -14,7 +14,7 @@ A high-performance, cross-version schematic library for Minecraft servers that p
   - Optimized for large schematics
 
 ### Compatibility & Integration
-- **Cross-Version Support**: Compatible with Minecraft versions 1.8 through 1.20
+- **Cross-Version Support**: Compatible with Minecraft versions 1.19 through 1.20
 - **Lightweight**: Minimal dependencies, significantly smaller than WorldEdit
 - **Custom File Format**: Uses `.tachyon` extension (customizable)
 - **Smart PacketEvents Integration**: Automatically uses existing PacketEvents instance if available
