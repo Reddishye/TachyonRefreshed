@@ -4,7 +4,7 @@
 [versions]
 org-jetbrains-annotations = "26.0.2"
 org-junit-jupiter-junit-jupiter-engine = "5.11.4"
-org-spigotmc-spigot-api = "1.21.4-R0.1-SNAPSHOT"
+org-spigotmc-spigot-api = "1.21.5-R0.1-SNAPSHOT"
 
 [libraries]
 org-jetbrains-annotations = { module = "org.jetbrains:annotations", version.ref = "org-jetbrains-annotations" }
