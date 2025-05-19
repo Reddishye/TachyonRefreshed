@@ -32,7 +32,7 @@ repositories {
 dependencies {
     api libs.org.jetbrains.annotations
     compileOnly libs.org.spigotmc.spigot.api
-    implementation 'com.github.retrooper:packetevents-spigot:2.7.0'
+    implementation 'com.github.retrooper:packetevents-spigot:2.8.0'
     implementation 'com.google.inject:guice:7.0.0'
     implementation 'com.google.inject.extensions:guice-assistedinject:7.0.0'
 }
